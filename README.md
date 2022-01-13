@@ -3,4 +3,4 @@
 My personal portfolio.
 
 GitHub Pages:
-https://wellingttoonn.github.io/portifolio/
+https://wellingttoonn.github.io/portifolio_1/
